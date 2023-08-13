@@ -12,14 +12,14 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Vinicios-Js" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557540-9518bb07-5937-4fcc-8af6-566f649e362d.svg">
-  <img align="center" alt="Vinicios-Ts" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557524-2bed18dc-2f32-4c35-ac66-2b56675fce66.svg">
-  <img align="center" alt="Vinicios-React" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557541-519288a3-e5d8-4f93-92d3-504b16fbad1d.svg">
-  <img align="center" alt="Vinicios-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557519-1b3651bf-e97b-4dd7-bd5d-6ba0c9fc23e3.svg">
-  <img align="center" alt="Vinicios-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557495-3b6d4708-1f63-4105-9b0a-59cfb505225f.svg">
-  <img align="center" alt="Vinicios-Sass" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557523-ebafa33e-17cd-4ddc-ae6e-d11af3d3dc01.svg">
-  <img align="center" alt="Vinicios-Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557514-88977ae1-4d33-4af2-9552-b97cccb40d99.svg">
-    <img align="center" alt="Vinicios-Ubuntu" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557525-cec83bf6-43f8-48b9-92f6-1cc54af3792c.svg">
+  <img align="center" alt="vagne-Js" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557540-9518bb07-5937-4fcc-8af6-566f649e362d.svg">
+  <img align="center" alt="vagne-Ts" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557524-2bed18dc-2f32-4c35-ac66-2b56675fce66.svg">
+  <img align="center" alt="vagne-React" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557541-519288a3-e5d8-4f93-92d3-504b16fbad1d.svg">
+  <img align="center" alt="vagne-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557519-1b3651bf-e97b-4dd7-bd5d-6ba0c9fc23e3.svg">
+  <img align="center" alt="vagne-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557495-3b6d4708-1f63-4105-9b0a-59cfb505225f.svg">
+  <img align="center" alt="vagne-Sass" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557523-ebafa33e-17cd-4ddc-ae6e-d11af3d3dc01.svg">
+  <img align="center" alt="Vagne-Firebase" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557514-88977ae1-4d33-4af2-9552-b97cccb40d99.svg">
+    <img align="center" alt="vagne-Ubuntu" height="30" width="40" src="https://user-images.githubusercontent.com/78514869/164557525-cec83bf6-43f8-48b9-92f6-1cc54af3792c.svg">
 </div>
   
   ##
