@@ -1,7 +1,7 @@
 ## Hi! I'm Francisco Vagne 👋
 
 - 😄 I'm in career transition
-- 📌 Lisbon - PT
+- 📌 Rio de Janeiro - Brasil
 - 🌱 I am currently studying the front end.
 
 
