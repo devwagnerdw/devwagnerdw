@@ -2,11 +2,11 @@
 
 ###
 
-<h2 align="left">Sou um desenvolvedor backend focado em Spring Boot, com conhecimentos em JavaScript, React e Node.js.</h2>
+<p align="left">Sou um desenvolvedor backend focado em Spring Boot, com conhecimentos em JavaScript, React e Node.js.</p>
 
 ###
 
-<h2 align="left">Neste GitHub, você encontrará projetos pessoais que refletem minha dedicação e progresso contínuo. Estou sempre aberto a feedback e colaboração!</h2>
+<p align="left">Neste GitHub, você encontrará projetos pessoais que refletem minha dedicação e progresso contínuo. Estou sempre aberto a feedback e colaboração!</p>
 
 ###
 
