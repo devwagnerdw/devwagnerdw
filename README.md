@@ -52,10 +52,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/gPuD0MkRsiQAAAAd/luffy-onigashima.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/devwagnerdw/devwagnerdw/output/snake.svg" alt="Snake animation" />
